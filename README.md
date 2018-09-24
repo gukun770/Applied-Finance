@@ -7,5 +7,5 @@ When you assess whether to invest in an asset, you want to look not only at how 
 
 ## Case 2: Exploring cryptocurrency market [View Notebook](http://nbviewer.jupyter.org/github/gukun770/Applied-Finance/blob/master/Exploring%20cryptocurrency%20market/Cryptocurrencies%20Market%20EDA.ipynb)
 
-To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies.
+To better understand the growth and impact of Bitcoin and other cryptocurrencies, in this case study, I will explore the market capitalization of different cryptocurrencies.
 
